@@ -1,0 +1,10 @@
+acct-group/ollama 0-r1: System group: ollama
+acct-user/ollama 0-r1: user for ollama service
+app-misc/aichat 0.21.0: All-in-one AI CLI Tool
+app-misc/ollama-bin 0.1.32 0.1.38 0.1.41 0.1.44 0.1.45_rc4 0.1.48 0.2.2 0.2.8 0.3.0 0.3.11: Ollama is a command-line tool for managing and running private LLMs
+app-misc/tenere 0.11.1 0.11.2: TUI interface for LLMs written in Rust
+dev-rust/qv 0.9.6: quickly view your data
+dev-util/jwt-ui 1.2.0: A Terminal UI for decoding/encoding JSON Web Tokens
+net-vpn/globalprotect-openconnect 2.3.1 2.3.2 2.3.4: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
+net-wireless/impala 0.2.3: TUI for managing wifi
+sys-process/pik 0.6.4 0.7.0: pik - process interactive kill
