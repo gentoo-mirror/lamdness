@@ -9,4 +9,4 @@ net-vpn/globalprotect-openconnect 2.3.1 2.3.2 2.3.4 2.3.7: GlobalProtect VPN GUI
 net-wireless/bluetui 0.5.1: TUI for managing bluetooth on Linux
 net-wireless/impala 0.2.3: TUI for managing wifi
 sys-cluster/kdash 0.6.1: A fast and simple dashboard for Kubernetes
-sys-process/pik 0.6.4 0.7.0 0.8.0: pik - process interactive kill
+sys-process/pik 0.6.4 0.7.0 0.8.0 0.10.0: pik - process interactive kill
