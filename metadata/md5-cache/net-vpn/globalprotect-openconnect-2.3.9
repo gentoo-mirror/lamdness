@@ -1,0 +1,16 @@
+DEFINED_PHASES=compile install postinst postrm
+DEPEND=virtual/rust dev-lang/perl sys-auth/polkit net-vpn/openconnect net-libs/webkit-gtk:4 dev-libs/libappindicator net-misc/curl net-misc/wget gnome? ( gnome-base/gnome-keyring ) kde? ( kde-plasma/kwallet-pam )
+DESCRIPTION=GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
+EAPI=8
+HOMEPAGE=https://github.com/yuezk/GlobalProtect-openconnect
+INHERIT=xdg-utils
+IUSE=gnome kde
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=virtual/rust dev-lang/perl sys-auth/polkit net-vpn/openconnect net-libs/webkit-gtk:4 dev-libs/libappindicator net-misc/curl net-misc/wget gnome? ( gnome-base/gnome-keyring ) kde? ( kde-plasma/kwallet-pam )
+REQUIRED_USE=^^ ( gnome kde )
+RESTRICT=network-sandbox
+SLOT=0
+SRC_URI=https://github.com/yuezk/GlobalProtect-openconnect/releases/download/v2.3.9/globalprotect-openconnect-2.3.9.tar.gz -> globalprotect-openconnect-2.3.9.tar.gz
+_eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09
+_md5_=bd0ec5e5488ced1c5f6a9b7d8dc4e0d1

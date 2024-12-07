@@ -6,7 +6,7 @@ app-misc/ollama-bin 0.1.32 0.1.38 0.1.41 0.1.44 0.1.45_rc4 0.1.48 0.2.2 0.2.8 0.
 app-misc/tenere 0.11.1 0.11.2: TUI interface for LLMs written in Rust
 dev-rust/qv 0.9.6: quickly view your data
 dev-util/jwt-ui 1.2.0: A Terminal UI for decoding/encoding JSON Web Tokens
-net-vpn/globalprotect-openconnect 2.3.1 2.3.2 2.3.4 2.3.7: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
+net-vpn/globalprotect-openconnect 2.3.1 2.3.2 2.3.4 2.3.7 2.3.9: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
 net-wireless/bluetui 0.5.1: TUI for managing bluetooth on Linux
 net-wireless/impala 0.2.3: TUI for managing wifi
 sys-cluster/kdash 0.6.1: A fast and simple dashboard for Kubernetes
