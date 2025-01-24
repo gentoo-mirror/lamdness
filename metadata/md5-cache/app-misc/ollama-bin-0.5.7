@@ -1,0 +1,14 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install unpack
+DEPEND=acct-user/ollama acct-group/ollama
+DESCRIPTION=Ollama is a command-line tool for managing and running private LLMs
+EAPI=8
+HOMEPAGE=https://github.com/ollama/ollama
+INHERIT=systemd
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+RDEPEND=acct-user/ollama acct-group/ollama
+SLOT=0
+SRC_URI=https://github.com/ollama/ollama/releases/download/v0.5.7/ollama-linux-amd64.tgz -> ollama-linux-amd64-0.5.7.tgz
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_md5_=5e3cdc78b02e59f578edb1fe2b78c31a
