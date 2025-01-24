@@ -6,6 +6,7 @@ app-misc/ollama-bin 0.1.32 0.1.38 0.1.41 0.1.44 0.1.45_rc4 0.1.48 0.2.2 0.2.8 0.
 app-misc/tenere 0.11.1 0.11.2: TUI interface for LLMs written in Rust
 dev-rust/qv 0.9.6: quickly view your data
 dev-util/jwt-ui 1.2.0: A Terminal UI for decoding/encoding JSON Web Tokens
+net-analyzer/netscanner 0.6.2: Network Scanner
 net-im/discord 0.0.78: All-in-one voice and text chat for gamers
 net-misc/exodus 24.51.4: Exodus cryptocurrency wallet
 net-vpn/globalprotect-openconnect 2.3.1 2.3.2 2.3.4 2.3.7 2.3.9 2.3.9-r1: GlobalProtect VPN GUI based on Openconnect with SAML auth mode support
