@@ -1,5 +1,7 @@
 acct-group/ollama 0-r1: System group: ollama
+acct-group/ollana 0-r1: System group: ollana
 acct-user/ollama 0-r1: user for ollama service
+acct-user/ollana 0-r1: user for ollana service
 app-admin/passepartui 0.1.4 0.1.5 0.1.6: A TUI for pass
 app-misc/aichat 0.21.0: All-in-one AI CLI Tool
 app-misc/ellama 0.3.1: Friendly interface to chat with an Ollama instance.
