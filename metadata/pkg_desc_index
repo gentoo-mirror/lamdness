@@ -5,7 +5,7 @@ acct-user/ollana 0-r1: user for ollana service
 app-admin/passepartui 0.1.4 0.1.5 0.1.6: A TUI for pass
 app-misc/aichat 0.21.0: All-in-one AI CLI Tool
 app-misc/ellama 0.3.1 0.4.0: Friendly interface to chat with an Ollama instance.
-app-misc/ollama-bin 0.1.32 0.1.38 0.1.41 0.1.44 0.1.45_rc4 0.1.48 0.2.2 0.2.8 0.3.0 0.3.11 0.4.1 0.4.7 0.5.7: Ollama is a command-line tool for managing and running private LLMs
+app-misc/ollama-bin 0.1.32 0.1.38 0.1.41 0.1.44 0.1.45_rc4 0.1.48 0.2.2 0.2.8 0.3.0 0.3.11 0.4.1 0.4.7 0.5.7 0.9.3: Ollama is a command-line tool for managing and running private LLMs
 app-misc/ollana 0.1.0: Ollama over LAN
 app-misc/tenere 0.11.1 0.11.2: TUI interface for LLMs written in Rust
 dev-rust/qv 0.9.6: quickly view your data
